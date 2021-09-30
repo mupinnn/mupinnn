@@ -1,9 +1,3 @@
-<style>
-  body {
-    font-family: monospace;
-  }
-</style>
-
 Hi! I'm Ahmad Muwaffaq, but you can call me 'Faqih' if calling with my full name it's too complicated. XD.
 
 This `readme` still under construction. Be patient.
