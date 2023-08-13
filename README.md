@@ -2,21 +2,21 @@
 
 > Y'all can call me 'Faqih' if calling with my full name it's too complicated.
 
-Currently work as freelance front-end web developer.
+![Faqih's personal banner](/banner.png)
 
-Things I do in spare time:
+Currently work as Front-End Developer at [Juragan Material](https://juraganmaterial.id/), a B2B e-commerce platform for building materials that also offering customers with end-to-end solutions in sourcing materials. As the first-gen member of the tech & product team, I got a chance to explore many things and made a meaningful contribution such as architecturing the front-end apps and optimizing them.
 
--   Exploring front-end kingdom.
--   Deep dive to computer science fundamental.
--   Static typing drill with TypeScript 😬.
+[Juragan Material](https://juraganmaterial.id/) at least right now has 4 platforms that have been launched and I'm grateful because I can be involved in all of these platforms. Our team utilizing a broad tools such as React + MUI, Next.js, Vue + Quasar, Nuxt.js, Tailwind, SCSS, pnpm monorepo + Turbo, Typescript and also Vite.
 
-Talk about work, I'm mostly use and comfortable with React ecosystem alongside pure CSS on top of Sass; sometimes Tailwind helped me a lot for fast prototyping. Interested in building beautiful and performant user interfaces that are also scalable.
+Outside of work, I'm always interested in building beautiful and performant user interfaces that are also scalable. I'm always curious and love to learn something new even with topics outside of software engineering and here are some things that I explore in my spare time:
 
-I'm always curious and love to learn something new, even with topic that out of software engineering.
+- Exploring front-end kingdom.
+- Deep dive to computer science fundamental.
+- Static typing drill with TypeScript 😬.
 
 <hr />
 
-Also, say hi to me. don't be shy.
+Also, say hi to me; don't be shy.
 
 [twitter](https://twitter.com/itsmupinnn) &bullet; [linkedin](https://www.linkedin.com/in/ahmad-muwaffaq/)
 
