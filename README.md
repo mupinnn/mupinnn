@@ -16,6 +16,10 @@ Outside of work, I'm always interested in building beautiful and performant user
 
 <hr />
 
+<figure><embed src="https://wakatime.com/share/@9eb8a0cd-44fd-41ce-a489-6ccfbecf1e67/782723bb-47df-4385-8190-562e87b1ad9e.svg"></embed></figure>
+
+<hr />
+
 Also, say hi to me; don't be shy.
 
 [twitter](https://twitter.com/itsmupinnn) &bullet; [linkedin](https://www.linkedin.com/in/ahmad-muwaffaq/)
